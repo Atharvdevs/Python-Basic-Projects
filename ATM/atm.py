@@ -1,4 +1,3 @@
-# phase1
 bank_account = 0
 history = []
 
@@ -56,7 +55,3 @@ while True:
             print(i)
     else:
         print("invalid")
-        
-print("hello")
-# this is 
-# SyntaxWarningwa
