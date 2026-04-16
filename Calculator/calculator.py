@@ -5,6 +5,7 @@ def instruction():
     2 subtraction
     3 mutliplication 
     4 division
+    5 history
     """
     print(rule)
 
