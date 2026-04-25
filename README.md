@@ -1,6 +1,6 @@
 🐍 Beginner Python Projects Collection
 
-This repository contains 7 beginner-level Python projects built to strengthen core programming concepts like logic building, functions, condition handling, and basic structure.
+This repository contains 8 beginner-level Python projects built to strengthen core programming concepts like logic building, functions, condition handling, and basic structure.
 
 📌 Purpose
 
