@@ -25,15 +25,19 @@ def main():
     random.shuffle(shuffle_word)
     scrambled_word="".join(shuffle_word)
     attempt=3
+     
     while attempt>0:      
         print(f"Scrambled word: {scrambled_word}")
         user_guess = input("Your guess: ")
+         
         if user_guess==word:
             print("congtatulation")
             break
+             
         else:
             print("try again")
             attempt-=1
+             
         if attempt==0:
             print(f"you lose the word was {word}")          
 main()
