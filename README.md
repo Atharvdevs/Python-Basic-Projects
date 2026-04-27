@@ -6,7 +6,7 @@ This repository contains 9 beginner-level Python projects built to strengthen co
 
 The goal of this collection is simple:
 
-Improve coding structure and readability
-Practice real-world problem solving
-Build consistency 
-Be good in python language
+1.Improve coding structure and readability,
+2.Practice real-world problem solving,
+3.Build consistency,
+4.Be good in python language,
